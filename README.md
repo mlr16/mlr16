@@ -18,7 +18,7 @@ A passionate tech enthusiast and aspiring SOC Analyst. Here's a bit about me:
  - [SIEM TUTORIAL: Setting Up Azure Sentinel ](https://medium.com/@luisam16/siem-tutorial-settting-up-azure-sentinel-bc63a61f2822)
 
  
-<h2>👩‍💻 IT & Cybersecurity Projects:</h2>
+<h2>👩‍💻 IT Projects:</h2>
 
 - [Active Directory Homelab](https://github.com/mlr16/ActiveDirectoryLab)
 - [Set up Share Drive Permission](https://medium.com/@luisam16/set-up-share-drive-permissions-47d9e39c2e81)
