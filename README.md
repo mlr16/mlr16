@@ -24,8 +24,7 @@ A passionate tech enthusiast and aspiring SOC Analyst. Here's a bit about me:
 - [Set up Share Drive Permission](https://medium.com/@luisam16/set-up-share-drive-permissions-47d9e39c2e81)
 
 <h2> 📄 Certifications:</h2>
-
-
+- [Comptia Security+ in progress]
 <h2>📫 How to reach me:</h2>
 
 [<img align="left" alt="LuisaMercer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
