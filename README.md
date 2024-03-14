@@ -23,6 +23,9 @@ A passionate tech enthusiast and aspiring SOC Analyst. Here's a bit about me:
 - [Active Directory Homelab](https://github.com/mlr16/ActiveDirectoryLab)
 - [Set up Share Drive Permission](https://medium.com/@luisam16/set-up-share-drive-permissions-47d9e39c2e81)
 
+<h2> Try Hack Me Walkthroughs/Learning Paths </h2>
+
+
 <h2> 📄 Certifications:</h2>
 - [Comptia Security+ in progress]
 <h2>📫 How to reach me:</h2>
