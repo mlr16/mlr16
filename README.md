@@ -16,6 +16,7 @@ A passionate tech enthusiast and aspiring SOC Analyst. Here's a bit about me:
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
  - [SIEM TUTORIAL: Setting Up Azure Sentinel ](https://medium.com/@luisam16/siem-tutorial-settting-up-azure-sentinel-bc63a61f2822)
+ - [Internal Security Audit for Botium Toys](https://github.com/mlr16/Cybersecurity-Portfolio)
 
  
 <h2>👩‍💻 IT Projects:</h2>
