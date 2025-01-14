@@ -1,6 +1,5 @@
 <h1>Hi, I'm Luisa!</h1>
 
-<a href="https://www.linkedin.com/in/luisa-mercer/">LinkedIn </a> | <a href="https://medium.com/@luisam16">Medium </a> 
 
 👋 Welcome to my GitHub profile! 
 A passionate tech enthusiast and aspiring SOC Analyst. Here's a bit about me:
@@ -34,9 +33,7 @@ A passionate tech enthusiast and aspiring SOC Analyst. Here's a bit about me:
 - [Comptia Security+ in progress]
 <h2>📫 How to reach me:</h2>
 
-[<img align="left" alt="LuisaMercer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: (https://www.linkedin.com/in/luisa-mercer/)
+<a href="https://www.linkedin.com/in/luisa-mercer/">LinkedIn </a> | <a href="https://medium.com/@luisam16">Medium </a> 
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
