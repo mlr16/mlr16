@@ -1,5 +1,7 @@
 <h1>Hi, I'm Luisa!</h1>
 
+<a href="https://www.linkedin.com/in/luisa-mercer/">LinkedIn </a> | <a href="https://medium.com/@luisam16">Medium </a> 
+
 👋 Welcome to my GitHub profile! 
 A passionate tech enthusiast and aspiring SOC Analyst. Here's a bit about me:
 
