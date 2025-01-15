@@ -19,8 +19,8 @@ A passionate tech enthusiast and aspiring SOC Analyst. Here's a bit about me:
  - [SIEM TUTORIAL: Setting Up Azure Sentinel ](https://medium.com/@luisam16/siem-tutorial-settting-up-azure-sentinel-bc63a61f2822)
  - [Internal Security Audit for Botium Toys](https://github.com/mlr16/Cybersecurity-Portfolio)
 - [ DNS-ICMP-Traffic-Analysis ](https://github.com/mlr16/DNS-ICMP-Traffic-Analysis)
-
- 
+- [ Analyze-Network-Attacks ](https://github.com/mlr16/Analyze-network-attacks) 
+  
 <h2>👩‍💻 IT Projects:</h2>
 
 - [Active Directory Homelab](https://github.com/mlr16/ActiveDirectoryLab)
