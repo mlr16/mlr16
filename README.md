@@ -1,6 +1,7 @@
 <h1>Hi, I'm Luisa!</h1>
 
-This is my maiin Cybersecurity Portfolio. You can check it out: [My Cybersecurity Portfolio](https://sore-okapi-d26.notion.site/a6d9d51512634e9b91f7db2bee0053ba?v=19f282cdd68b803a9e53000ceb5bd16e&pvs=4)
+Below is my main Cybersecurity Portfolio that i constantly update to  showcase my continuous learning and research in anything cybersecurity related.
+Please check it out: [My Cybersecurity Portfolio](https://sore-okapi-d26.notion.site/a6d9d51512634e9b91f7db2bee0053ba?v=19f282cdd68b803a9e53000ceb5bd16e&pvs=4)
 
 👋 Welcome to my GitHub profile! 
 A passionate tech enthusiast and aspiring SOC Analyst. Here's a bit about me:
